@@ -71,7 +71,8 @@ Make sure you have Python and pip installed on your system.
 
 1. **Clone the repository:**
    ```sh
-   git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+   git clone https://github.com/AreedaTJN/Medicine-Recommendation-System.git
+   
    ```
 2. **Install the required packages:**
    ```sh
