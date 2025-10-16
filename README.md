@@ -7,20 +7,19 @@ A web application that suggests preliminary health information based on user-pro
 ---
 
 ## 📋 Table of Contents
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
+- [📖 About The Project](#about-the-project)
+- [✨ Features](#features)
+- [📂 Project Structure](#project-structure)
+- [🛠️ Technologies Used](#technologies-used)
+- [🚀 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [Contact](#contact)
+- [⚠️ Disclaimer](#disclaimer)
+- [✉️ Contact](#contact)
 
 ---
 
-## 📖 About The Project
+## About The Project
 
 This project is a web application designed to provide preliminary health recommendations. Users can input their symptoms, and the system utilizes a machine learning model to predict a potential ailment. It then provides relevant information such as a description of the condition, necessary precautions, and suggestions for medication, workouts, and diet.
 
@@ -28,7 +27,7 @@ This application was developed primarily for educational purposes to practice th
 
 ---
 
-## ✨ Features
+## Features
 
 - **Symptom-based Prediction:** Analyzes user symptoms to predict potential health issues.
 - **Comprehensive Information:** Provides details on diseases, precautions, medications, workouts, and diets.
@@ -37,7 +36,7 @@ This application was developed primarily for educational purposes to practice th
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized into the following key files and directories:
 ```.
@@ -52,13 +51,13 @@ The project is organized into the following key files and directories:
     ├── contact.html                    # Contact and developer profile links.
     └── developer.html                  # Information about the developer.
 ```
-## 🛠️ Technologies Used
+## Technologies Used
 - **Backend:** Python, Flask
 - **Machine Learning:** Scikit-learn, Pandas, NumPy
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
 - **Model Development:** Jupyter Notebook
 
-## 🚀 Getting Started
+## Getting Started
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
@@ -83,10 +82,10 @@ Make sure you have Python and pip installed on your system.
    python main.py
    ```
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 **This application is for educational purposes only.** The predictions are not a substitute for professional medical advice.
 
-## ✉️ Contact
+## Contact
 
 Areeda Thingjana - [GitHub](https://github.com/AreedaTJN) - [LinkedIn](https://www.linkedin.com/in/areeda-thingjana-89a115337/)
