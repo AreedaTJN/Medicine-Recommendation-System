@@ -2,7 +2,7 @@
 
 A web application that suggests preliminary health information based on user-provided symptoms, built with Flask and a Scikit-learn machine learning model.
 
-![Health Care Center Screenshot](<img width="2552" height="1422" alt="Image" src="https://github.com/user-attachments/assets/a8aa5462-f9a8-4301-92ad-85b4a34c0c43" />)
+![Health Care Center Screenshot](static/home_page.png)
 
 ---
 
