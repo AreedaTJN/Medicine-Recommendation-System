@@ -89,7 +89,7 @@ Make sure you have Python and pip installed on your system.
 ## Contact
 
 Areeda Thingjana
-📧 Email: [areeda.th@gmail.com](mailto:areeda.th@gmail.com)  
-💻 GitHub: [AreedaTJN](https://github.com/AreedaTJN)  
-🔗 LinkedIn: [Areeda Thingjana](https://www.linkedin.com/in/areeda-thingjana-89a115337/)
+- 📧 Email: [areeda.th@gmail.com](mailto:areeda.th@gmail.com)  
+- 💻 GitHub: [AreedaTJN](https://github.com/AreedaTJN)  
+- 🔗 LinkedIn: [Areeda Thingjana](https://www.linkedin.com/in/areeda-thingjana-89a115337/)
 
